@@ -1,0 +1,10 @@
+D:\C#\ProiecteC#\Tetris2\bin\Debug\Tetris2.exe.config
+D:\C#\ProiecteC#\Tetris2\bin\Debug\Tetris2.exe
+D:\C#\ProiecteC#\Tetris2\bin\Debug\Tetris2.pdb
+D:\C#\ProiecteC#\Tetris2\obj\Debug\Tetris2.csprojAssemblyReference.cache
+D:\C#\ProiecteC#\Tetris2\obj\Debug\Tetris2.Form1.resources
+D:\C#\ProiecteC#\Tetris2\obj\Debug\Tetris2.Properties.Resources.resources
+D:\C#\ProiecteC#\Tetris2\obj\Debug\Tetris2.csproj.GenerateResource.cache
+D:\C#\ProiecteC#\Tetris2\obj\Debug\Tetris2.csproj.CoreCompileInputs.cache
+D:\C#\ProiecteC#\Tetris2\obj\Debug\Tetris2.exe
+D:\C#\ProiecteC#\Tetris2\obj\Debug\Tetris2.pdb
