@@ -1,4 +1,4 @@
-# tetris
+# Tetris Game
 Contols:
 Left: A
 Down: S
