@@ -1,6 +1,6 @@
-# Tetris Game
-Contols:
-Left: A
-Down: S
-Right: D
-Rotate: J
+# Tetris Game C#
+### Controls:  
+**Left: A**    
+**Down: S**  
+**Right: D**  
+**Rotate: J**  
